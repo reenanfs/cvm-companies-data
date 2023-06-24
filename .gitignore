@@ -1,0 +1,12 @@
+# Folders
+__pycache__/
+venv/
+build/
+dist/
+cvm_data/*
+
+#Files
+.vscode
+*.spec
+*.egg-info
+.env*
